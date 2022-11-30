@@ -34,4 +34,4 @@ setInterval(function () {
 const div = document.querySelector("div");
 const h2 = document.createElement("h2");
 div.append(h2);
-h2.textContent = "it's Pasinee here!";
+h2.textContent = "Whatchu up to?!";
