@@ -1,0 +1,19 @@
+h1 {
+  /* text-align: center;
+    margin: 10% 0; */
+  font-size: 100px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: black; */
+}
+span {
+  transition: color 500ms;
+}
+
+.bold {
+  color: red;
+}
